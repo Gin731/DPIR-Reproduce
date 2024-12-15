@@ -104,6 +104,6 @@ Degraded image: Gaussian blur + Gaussian noise.
 
 
 ### **Future Work**
-- Add support for other types of degradation (e.g., motion blur).
+- Add support for other types of degradation.
 - Integrate other denoisers into the Plug-and-Play framework.
 - Enhance computational efficiency for larger images.
